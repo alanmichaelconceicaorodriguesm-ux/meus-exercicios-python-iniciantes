@@ -1,4 +1,4 @@
-# meus-exercicios-python-iniciantes
+# meus-exercicios-python-iniciantes - 10
 São questões simples para minha pessoa ter uma ser noção do meu progresso. 
 
 # Variável.
